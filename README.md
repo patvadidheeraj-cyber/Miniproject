@@ -1,6 +1,6 @@
 IoT Sensor Monitoring System
 
-This is a simple IoT project that monitors sensor data in real time using an ESP8266 and Firebase.
+This is a IoT project that monitors sensor data in real time using an ESP8266 ,DHT22 and Firebase.
 The data is displayed on a web dashboard so it can be viewed live from anywhere.
 
 ---
@@ -36,7 +36,7 @@ Folder Structure
 Miniproject/
 │
 ├── DASHBOARD/              # Dashboard files  
-├── mvsr_iot_monitor_2_/    # Arduino code  
+├── ARDUINO/    # Arduino code  
 ```
 
 ---
